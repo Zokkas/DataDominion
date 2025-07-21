@@ -1,0 +1,26 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 82691f95084da6d46bed8125425a9a9b, type: 3}
+  m_Name: PistolDefault
+  m_EditorClassIdentifier: 
+  weaponName: Default Pistol
+  gunSprite: {fileID: 21300000, guid: 2bd08b6ea704d7648839fa1f65c5e636, type: 3}
+  fireMode: 1
+  spreadAngle: 2
+  fireRate: 7
+  timeBetweenShots: 0.5
+  burstCount: 5
+  reloadTime: 4
+  maxAmmo: 20
+  fireSound: {fileID: 0}
+  chamberSound: {fileID: 0}
+  projectilePrefab: {fileID: 7889964450299430592, guid: 3a8d255a9b88bce4ab3f7b8ba4361125, type: 3}

@@ -1,0 +1,10 @@
+st:SoundsVolume:0,5
+st:MusicVolume:0,3
+st:UIVolume:0,3
+st:AmbientVolume:0,3
+st:Resolution:(1920, 1080)
+st:MaxFPS:60
+st:IsFullscreen:True
+st:IsVSyncOn:True
+st:SelectedLanguage:EN
+st:SkipIntro:False

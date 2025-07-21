@@ -1,0 +1,32 @@
+{
+  "items": [
+    { "key": "Options", "value": "OPTIONS" },
+    { "key": "Music", "value": "Music" },
+    { "key": "Sound", "value": "Sound" },
+    { "key": "Ambient", "value": "Ambient" },
+    { "key": "Resolution", "value": "Resolution" },
+    { "key": "Fullscreen", "value": "Fullscreen" },
+    { "key": "Controls", "value": "Controls" },
+    { "key": "Up", "value": "Up" },
+    { "key": "Down", "value": "Down" },
+    { "key": "Left", "value": "Left" },
+    { "key": "Right", "value": "Right" },
+    { "key": "Movement", "value": "Movement" },
+    { "key": "Unlocks", "value": "Unlocks" },
+    { "key": "Play", "value": "Play" },
+    { "key": "Character", "value": "Character" },
+    { "key": "Time", "value": "Time" },
+    { "key": "Credits", "value": "Credits" },
+    { "key": "Art", "value": "Art" },
+    { "key": "Asset", "value": "Asset" },
+    { "key": "CharacterOneInfo", "value": "Overdrive Surge: \n\nTemporarily floods Core’s weapon systems with unstable crystal energy, massively increasing damage output for a short duration. \n\nIdeal for high fire-rate weapons." },
+    { "key": "CharacterOneName", "value": "Unit K-0R" },
+    { "key": "CharacterTwoInfo", "value": "CharacterTwoInfo: \n\nTemporarily floods Core’s weapon systems with unstable crystal energy, massively increasing damage output for a short duration. \n\nIdeal for high fire-rate weapons." },
+    { "key": "CharacterTwoName", "value": "CharacterTwoName" },
+    { "key": "CharacterThreeInfo", "value": "CharacterThreeInfo: \n\nTemporarily floods Core’s weapon systems with unstable crystal energy, massively increasing damage output for a short duration. \n\nIdeal for high fire-rate weapons." },
+    { "key": "CharacterThreeName", "value": "CharacterThreeName" },
+    { "key": "", "value": "" },
+    { "key": "", "value": "" },
+    { "key": "", "value": "" }
+  ]
+}
